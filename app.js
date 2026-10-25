@@ -5,3 +5,4 @@ console.log("here comes trouble");
 >>>>>>> trouble
 console.log("ok trying");
 console.log("ok trying 2");
+console.log("ok trying 3");
